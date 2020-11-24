@@ -1,0 +1,40 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-350,1050,770,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=C.dat>
+  <DataDisplay=C.sch>
+  <OpenDisplay=1>
+  <Script=C.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 100 490 240 160 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "" "">
+	<"V1.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 690 550 240 160 3 #c0c0c0 1 00 1 0 0.02 0.08 1 -0.170158 1 2 1 -1 1 1 315 0 225 "" "" "" "">
+	<"V2.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 380 530 240 160 3 #c0c0c0 1 00 1 0 0.02 0.08 1 -0.170158 1 2 1 -1 1 1 315 0 225 "" "" "" "">
+	<"V2.It" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 100 132 737 402 3 #c0c0c0 1 00 1 -1 0.2 1 1 -1 0.2 1 1 -1 0.2 1 315 0 225 "" "" "" "">
+	<"vout.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 410 750 240 160 3 #c0c0c0 1 00 1 -1 0.5 1 1 -1 1 1 1 -1 1 1 315 0 225 "" "" "" "">
+	<"vin.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
